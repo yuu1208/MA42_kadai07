@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">中根優太</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_text">図鑑</string>
+    <string name="lionbutton">ライオン</string>
+    <string name="hippobutton">カバ</string>
+    <string name="giraffebutton">キリン</string>
+    <string name="next_text">次へ</string>
+</resources>
